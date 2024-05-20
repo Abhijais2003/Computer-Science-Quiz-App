@@ -3,7 +3,7 @@
 ## Overview
 The Computer Science Quiz App is a web application that offers a dynamic quiz experience for testing your knowledge in computer science. With a diverse range of questions sourced from APIs, users can assess their proficiency across various topics in the field of computer science.
 
-## try and test your Computer Science skills & knowledge
+## Try and test your Computer Science skills & knowledge
 (https://computersciencequizapp.netlify.app/)
 
 ## Features
