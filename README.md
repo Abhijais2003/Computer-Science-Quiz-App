@@ -25,7 +25,7 @@ The Computer Science Quiz App is a web application that offers a dynamic quiz ex
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Computer-Science-Quiz-App.git
+   git clone https://github.com/Abhijais2003/Computer-Science-Quiz-App.git
    ```
 2. Navigate to the project directory:
    ```bash
