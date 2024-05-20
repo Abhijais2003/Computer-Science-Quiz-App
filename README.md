@@ -10,9 +10,9 @@ The Computer Science Quiz App is a web application that offers a dynamic quiz ex
 - Option to reset the quiz
 
 ## Screenshot
-![screenshot-1](first_quiz.png)
-![screenshot-2](second_quiz.png)
-![screenshot-3](third_quiz.png)
+![Screenshot-1](screenshots/first_quiz.png)
+![Screenshot-2](screenshots/second_quiz.png)
+![Screenshot-3](screenshots/third_quiz.png)
 
 ## Technologies Used
 - HTML
